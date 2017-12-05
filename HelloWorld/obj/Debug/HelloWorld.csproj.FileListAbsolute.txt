@@ -3,3 +3,4 @@ c:\users\subrabx\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin
 c:\users\subrabx\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 c:\users\subrabx\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 c:\users\subrabx\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\subrabx\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache

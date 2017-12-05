@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8d987bc4-2128-44b1-9af1-ba2790cb912e" name="subrabx@LNGLONL7036696 2017-12-05 14:06:45" runUser="LEGAL\subrabx" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="d016d10f-f6cc-44df-928d-79458a7c31c1">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="subrabx_LNGLONL7036696 2017-12-05 14_06_45" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2017-12-05T14:06:45.8701069+00:00" queuing="2017-12-05T14:06:46.4472474+00:00" start="2017-12-05T14:06:46.5442583+00:00" finish="2017-12-05T14:06:47.0035589+00:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="unittestproject1\bin\debug\unittestproject1.dll" id="5e31dd07-94a6-154a-c432-42c66e0a0486">
+      <Execution id="702257bd-db68-44f3-aa2c-eba42bd9b332" />
+      <TestMethod codeBase="C:/Users/subrabx/Documents/Visual Studio 2015/Projects/HelloWorld/UnitTestProject1/bin/debug/UnitTestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HelloWorldTests.UnitTest1, UnitTestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5e31dd07-94a6-154a-c432-42c66e0a0486" executionId="702257bd-db68-44f3-aa2c-eba42bd9b332" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="702257bd-db68-44f3-aa2c-eba42bd9b332" testId="5e31dd07-94a6-154a-c432-42c66e0a0486" testName="TestMethod1" computerName="LNGLONL7036696" duration="00:00:00.0403840" startTime="2017-12-05T14:06:46.5783126+00:00" endTime="2017-12-05T14:06:46.9445138+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="702257bd-db68-44f3-aa2c-eba42bd9b332">
+    </UnitTestResult>
+  </Results>
+</TestRun>
